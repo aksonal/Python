@@ -1,0 +1,2 @@
+Create a package containing calculator.py and listoperations.py files
+Then in the main program import the package and use the methods of the packages
